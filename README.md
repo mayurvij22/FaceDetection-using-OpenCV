@@ -1,2 +1,0 @@
-# Hibernate
-#Hibernate CRUD operations
